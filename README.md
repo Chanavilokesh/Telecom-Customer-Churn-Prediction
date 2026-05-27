@@ -52,5 +52,17 @@ Logistic Regression was selected as the best-performing model based on balanced 
 pip install -r requirements.txt
 
 
-2️⃣ Run Streamlit app
+### Step 2: Run Streamlit app
 streamlit run app.py
+
+## 🛠 Skills Used
+- Python  
+- Machine Learning  
+- Data Preprocessing  
+- Feature Engineering  
+- Streamlit  
+- Model Deployment  
+- Scikit-learn
+
+## 📌 Conclusion
+This project demonstrates a complete machine learning workflow from data preprocessing to model deployment. It helps telecom companies identify customers likely to churn and improve retention strategies.
