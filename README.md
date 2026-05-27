@@ -41,7 +41,7 @@ Logistic Regression was selected as the best-performing model based on balanced 
 ---
 
 ## 🌐 Live Demo
-👉 Streamlit App: https://telecom-customer-churn-prediction.streamlit.app
+👉 Streamlit App: https://telecom-customer-churn-prediction-kqfcnx5mqjsh6bgwryvydh.streamlit.app/
 
 ---
 
